@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "914817987535",
+    "project_id": "tesis2025re",
+    "storage_bucket": "tesis2025re.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914817987535:android:1e20d95e0f41cf142858ba",
+        "android_client_info": {
+          "package_name": "com.example.tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914817987535-ke1fff559g1tnutbhse9haq73q9v0dpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesis",
+            "certificate_hash": "398a25c4c5f323093a2006fdfa29810291353229"
+          }
+        },
+        {
+          "client_id": "914817987535-gapfj2qrfms0cfrhcm4bmb23qf7v287v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIbP-WQ6XQYoda1SqvLGjPodXvW_PrHt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914817987535-gapfj2qrfms0cfrhcm4bmb23qf7v287v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "914817987535-r0g9drf0c9ktdbc423fsulvo9bp3n8cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
